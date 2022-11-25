@@ -1,4 +1,38 @@
-### Hi there 👋
+### Welcome 👋
+### Who am I?
+Rookie programmer trying to conquest the world :earth_americas:
+### What can I do?
+From Python :snake: to Java :coffee: and C++ :minidisc:
+### What OS do I use?
+Linux :penguin: 
+
+Windows :window:
+
+But i will try to test my work with macOS so everyone can use it
+```  
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *      Name: Mizael
+***********      Nickname: Mizil
+*         *      OS: Linux and Windows but most Linux
+*    *    *      Editor: VS Code
+*  *   *  *      Languages: C++, Python, Java, R 
+*    *    *      Open Source Believer: Yes
+*         *
+*         *
+*         *
+*         *
+***********
+    **
+   *  *
+  *    *
+ *      *
+*        *
+```
+
 
 <!--
 **ElMizil/ElMizil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +46,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--:smile:
 - ⚡ Fun fact: ...
 -->
