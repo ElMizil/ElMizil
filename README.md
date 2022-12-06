@@ -1,6 +1,6 @@
 ### Welcome 👋
 ### Who am I?
-Rookie programmer trying to conquest the world :earth_americas:
+Rookie programmer trying to conquer the world :earth_americas:
 ### What can I do?
 From Python :snake: to Java :coffee: and C++ :minidisc:
 ### What OS do I use?
