@@ -30,7 +30,7 @@ But i will try to test my work with macOS so everyone can use it
    *  *
   *    *
  *      *
-*        *
+**********        
 ```
 
 
