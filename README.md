@@ -1,14 +1,13 @@
 ### Welcome 👋
 ### Who am I?
-Rookie programmer trying to conquer the world :earth_americas:
+Rookie programmer :rocket: trying to conquer the world :earth_americas:
 ### What can I do?
-From Python :snake: to Java :coffee: and C++ :minidisc:
+From Python :snake: and Java :coffee: to C++ :minidisc: and C# :cat2:
 ### What OS do I use?
 Linux :penguin: 
 
 Windows :window:
 
-But i will try to test my work with macOS so everyone can use it
 ```  
      *
     * *
@@ -16,7 +15,7 @@ But i will try to test my work with macOS so everyone can use it
   *     *
  *       *
 *         *      Name: Mizael
-***********      Nickname: Mizil
+***********      Nickname: Mizil 
 *         *      OS: Linux and Windows but most Linux
 *    *    *      Editor: VS Code
 *  *   *  *      Languages: C++, Python, Java, R 
