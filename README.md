@@ -30,6 +30,11 @@ Especially interested in autonomous vehicles 🚗 and web developing 📄
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </div>
 
+### 🧠Artificial Intelligence
+<div display="flex">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</div>
+
 ### 💻OS:
 <div display="flex">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
